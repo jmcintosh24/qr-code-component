@@ -8,8 +8,8 @@ I want to get more comfortable with HTML/CSS. This is a solution to the [QR code
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/jmcintosh24/qr-code-component)
-- Live Site URL: [Add live site URL here](https://jmcintosh24.github.io/qr-code-component/)
+- [Solution URL](https://github.com/jmcintosh24/qr-code-component)
+- [Live Site URL](https://jmcintosh24.github.io/qr-code-component/)
 
 ### What I learned
 
